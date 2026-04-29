@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Menu1" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>
